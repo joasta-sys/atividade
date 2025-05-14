@@ -1,0 +1,14 @@
+head{
+   
+}
+h6{
+    font-size: 40px;
+    border-top: solid blue;
+    border-bottom: solid blue;
+    font-style: oblique;
+    margin: auto;
+}
+
+button{
+    border-radius: 0% 20px;
+}
